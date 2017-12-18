@@ -1,0 +1,13 @@
+/* Importing the google custom font used in the main logo */
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+#componentHeader {
+    text-align: center; 
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 60px;
+    /* The next three lines provide the gradient for the font in the main logo */
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

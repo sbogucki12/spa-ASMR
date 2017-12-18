@@ -1,4 +1,23 @@
-# SpaASMRApp
+![Imgur](https://i.imgur.com/oHtIf9S.png)
+
+# Spa: ASMR
+
+## About
+
+ASMR is an acronymn describing the "tingling" sensation that some people experience when they hear soft noises such as when being examined by a physician.  ASMR videos have become popular on youtube.  I personally use these videos to help me sleep.  This website will allow users to view videos from my favorite "ASMR Artists". 
+
+## Screenshots
+
++ Day One: 
+
+![Imgur](https://i.imgur.com/VAXqbao.jpg)
+![Imgur](https://i.imgur.com/66423MK.jpg)
+
+## Timeline
+
++ 12/17/2017: First Commit.  Basic layout of components.  
+
+## Angular Info
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
