@@ -13,18 +13,18 @@ body { background: black !important; }
 #mainLeftBar {
     background-color: black;
     height: 100%;
-    width: 250px;
+    width: 300px;
     padding-top: 100px; 
 }
 
 #mainWindow {
-    background-color: rgba(50, 95, 135, 0.741);
-    width: 600px;
+    background: linear-gradient(rgb(15, 127, 160), black);
+    width: 750px;
     padding-top: 75px;
     align-items: center;
     text-align: center; 
     color: white;
-    padding-bottom: 200px; 
+    padding-bottom: 75px; 
 }
 
 #mainFooter {
@@ -39,8 +39,12 @@ body { background: black !important; }
 
 #rightInfoBox {
     background-color: blue; 
-    margin-top: 200px;
-    padding-top: 10px; 
+    /* margin-top: 200px;
+    padding-top: 10px;  */
     color: white; 
     text-align: center;
+}
+
+.thumbnails {
+    padding-top: 40px;
 }

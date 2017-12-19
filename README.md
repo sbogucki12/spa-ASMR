@@ -13,9 +13,14 @@ ASMR is an acronymn describing the "tingling" sensation that some people experie
 ![Imgur](https://i.imgur.com/VAXqbao.jpg)
 ![Imgur](https://i.imgur.com/66423MK.jpg)
 
++ Day Two: 
+
+![Imgur](https://i.imgur.com/a8uotsP.jpg)
+
 ## Timeline
 
 + 12/17/2017: First Commit.  Basic layout of components.  
++ 12/19/2017: Added the first artist component.
 
 ## Angular Info
 
