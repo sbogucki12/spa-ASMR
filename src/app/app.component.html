@@ -12,7 +12,7 @@ and an info box on the bottom -->
 <div class="row">
   <!-- This first column contains in it three columns, the middle of which will contain 
   navigation options -->
-  <div class="col-md-2" id="mainLeftBar">
+  <div class="col-md-1" id="mainLeftBar">
     <div class="col-md-1"></div>
     <div class="col-md-10" id="mainLeftLinks">
       <app-left-links></app-left-links>
@@ -22,8 +22,8 @@ and an info box on the bottom -->
 
   <!-- This column is the main window where videos are viewed -->
   <div class="col-md-8" id="mainWindow">
-    <app-asmr-requests-video1></app-asmr-requests-video1>
-    <app-asmr-requests></app-asmr-requests>
+    <!-- This is where our router output will go -->
+    <router-outlet></router-outlet>
   </div>
 
   <!-- This column in the right most column on the screen and will contain videos related to the

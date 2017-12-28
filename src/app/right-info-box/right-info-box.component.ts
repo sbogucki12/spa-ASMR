@@ -6,10 +6,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./right-info-box.component.css']
 })
 export class RightInfoBoxComponent implements OnInit {
+  aboutASMR: boolean = true; 
 
   constructor() { }
 
   ngOnInit() {
+  }
+
+  onAboutASMR(){
+    this.aboutASMR = !this.aboutASMR;
   }
 
 }

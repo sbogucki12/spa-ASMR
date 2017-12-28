@@ -11,9 +11,7 @@ export class AsmrRequestsComponent implements OnInit {
   thumbnail3PT = "../../assets/asmr-requests-thumbnails/asmr-requests-video3-physTherapist.JPG";
   thumbnail4Departure = "../../assets/asmr-requests-thumbnails/asmr-requests-video4-departure.JPG";
   thumbnail5CranialNerve = "../../assets/asmr-requests-thumbnails/asmr-requests-video5-cranialNerve.JPG";
-
-  
-
+    
   constructor() { }
 
   ngOnInit() {

@@ -13,13 +13,13 @@ body { background: black !important; }
 #mainLeftBar {
     background-color: black;
     height: 100%;
-    width: 300px;
+    width: 20%;
     padding-top: 100px; 
 }
 
 #mainWindow {
     background: linear-gradient(rgb(15, 127, 160), black);
-    width: 750px;
+    width: 60%;
     padding-top: 75px;
     align-items: center;
     text-align: center; 
@@ -34,15 +34,17 @@ body { background: black !important; }
 
 #mainLeftLinks {
     background-color: lightblue;
-    padding: 10px;
+    width: 100%;
+    padding-left: 0px;
+    margin-left: 10px;   
 }
 
 #rightInfoBox {
     background-color: blue; 
     /* margin-top: 200px;
     padding-top: 10px;  */
-    color: white; 
-    text-align: center;
+    color: white;
+    width: 100%;          
 }
 
 .thumbnails {

@@ -17,10 +17,23 @@ ASMR is an acronymn describing the "tingling" sensation that some people experie
 
 ![Imgur](https://i.imgur.com/a8uotsP.jpg)
 
++ Day Three: 
+
+![Imgur](https://i.imgur.com/smHEPal.jpg)
+![Imgur](https://i.imgur.com/Kp31ea8.jpg)
+
 ## Timeline
 
 + 12/17/2017: First Commit.  Basic layout of components.  
 + 12/19/2017: Added the first artist component.
++ 12/28/2017: Added some routing. Uploaded beta version to AWS S3. 
+
+## Credit
+
+The videos are owned by their content providers, the individual ASMR Artists.  All code for this site, and any verbiage, is by me, Steve Bogucki.  Who, by the way, is looking for work :)  Preferably Node/Angular. Thanks!  stevebogucki 12 AT gmail DOT com. 
+
+
+![Imgur](https://i.imgur.com/GuiCKpS.png)
 
 ## Angular Info
 
